@@ -38,6 +38,8 @@ print(f"Min value is {min_v}")
 
 
 
+# oneline function
+
 def find_max_min(list):
     return max(list), min(list)
 
